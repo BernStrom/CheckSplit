@@ -46,6 +46,8 @@ struct ContentView: View {
                             Text("\($0) people")
                         }
                     }
+                } header: {
+                    Text("Input your amount & no. of people")
                 }
                 
                 Section {
@@ -60,10 +62,14 @@ struct ContentView: View {
                 
                 Section {
                     Text(totalCheck, format: .currency(code: Locale.current.currencyCode ?? "USD"))
+                } header: {
+                    Text("Grand total")
                 }
                 
                 Section {
                     Text(totalPerPerson, format: .currency(code: Locale.current.currencyCode ?? "USD"))
+                } header: {
+                    Text("Amount per person")
                 }
             }
             .navigationTitle("CheckSplit")
