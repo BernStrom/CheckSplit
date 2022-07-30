@@ -38,4 +38,4 @@ Swift, the Swift logo, Xcode, Instruments, SF Symbols, Emoji, Cocoa Touch, iPhon
 
 ## License <a aria-label="CheckSplit is free to use" href="https://choosealicense.com/licenses/mit/" target="_blank"><img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-success.svg?style=flat-square&color=33CC12" target="_blank" /></a>
 
-This project is under the terms of the MIT license. For more information, please refer to the license [documentation](LICENSE.md).
+This project is under the terms of the MIT license. For more information, please refer to the license [documentation](LICENSE).
