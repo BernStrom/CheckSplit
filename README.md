@@ -20,6 +20,10 @@ The app features a simple interface with a basic layout of sections, two of whic
 
 As for the in-app currency, it is set to display according to the locale settings of the user device with a fallback default to **$** (USD); i.e: Device region set to **United Kingdom** will display the in-app currency in **￡** (GBP).
 
+## App preview
+
+https://user-images.githubusercontent.com/65307853/182370037-8694ad59-dd74-4e96-8585-6aec9a5c9ebe.mp4
+
 ## Trying it yourself
 
 CheckSplit is written using Xcode 13.2 and Swift 5.0. To try it out, you can clone this project and build it immediately by opening `CheckSplit.xcodeproj`.
